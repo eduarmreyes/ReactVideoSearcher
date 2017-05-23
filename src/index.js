@@ -20,7 +20,7 @@ class App extends Component {
 			selectedVideo: null,
 		};
 
-		this.videoSearch("www.carmenhotel.com");
+		this.videoSearch("TU Chemnitz");
 	}
 
 	videoSearch(term) {
